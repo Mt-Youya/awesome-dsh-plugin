@@ -1,5 +1,5 @@
-url: https://github.com/Mt-Youya/dsh-plugins/tree/main/plugins/context-insight
-name: Mt-Youya/dsh-plugins#context-insight
+url: https://github.com/Mt-Youya/dsh-plugins/tree/main/plugins/sessions-insight
+name: Mt-Youya/dsh-plugins#sessions-insight
 category: usage
 description:
   en: Browse Claude Code, DSH and Codex session logs by working directory, with per-turn context composition, token usage, compaction markers and cost estimates.
